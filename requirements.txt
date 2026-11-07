@@ -1,0 +1,24 @@
+# AI Lesson Creator dependencies.
+# Install with:  pip install -r requirements.txt
+
+# Web app
+streamlit
+
+# Load API keys from a local .env file
+python-dotenv
+
+# Web and book research
+requests
+duckduckgo-search
+
+# Supplementary YouTube videos
+youtube-search-python
+
+# Lesson generation and the two quality-control reviews
+google-genai
+
+# PDF export
+reportlab
+
+# Pipeline verification script (_verify_pipeline.py)
+pypdf
